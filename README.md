@@ -7,6 +7,13 @@ react hooks and providers for dealing with [IPFS](https://ipfs.io) [orbit-db dat
 
 You can see a demo here : https://revolunet.github.io/react-orbitdb
 
+## Introduction
+This is a fork to explore the code and add more explanations to the original github.
+
+To run the demo
+* from the project root folder, type `npm install`
+* type `npm run start:demo`
+
 ## Provider
 
 `OrbitProvider` creates a shared IPFS Node and an orbit-db instance.
