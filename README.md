@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/badge/License-Apache--2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 [![](https://img.shields.io/npm/v/react-orbitdb.svg)](https://www.npmjs.com/package/react-orbitdb)
+[![](https://img.shields.io/badge/usage-explore-violet.svg)](https://www.npmjs.com/package/react-orbitdb)
 
 react hooks and providers for dealing with [IPFS](https://ipfs.io) [orbit-db datasources](https://github.com/orbitdb/orbit-db).
 
